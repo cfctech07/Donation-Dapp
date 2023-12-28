@@ -1,20 +1,3 @@
-<p align="center">
-  <a href="#">
-    <img alt="Stargazers" src="#"/>
-  </a>
-  <a href="#">
-    <img alt="Forks" src="#"/>
-  </a>
-  <a href="#">
-    <img alt="Contributors" src="#"/>
-  </a>
-  <a href="#">
-    <img alt="Issues" src="#"/>
-  </a>
-  <a href="#">
-    <img alt="MIT License" src="#"/>
-  </a>
-</p>
 
 <p align="center">
   <h1 align="center">Donation Decentralised Application</h1>
